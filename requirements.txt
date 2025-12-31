@@ -1,0 +1,1 @@
+Implementation avec la bibliotheque pulp dans python
